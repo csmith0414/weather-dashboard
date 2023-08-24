@@ -15,7 +15,7 @@ Creating code from scratch build a weather dashboard that meets the below criter
 
 ## Usage
 
-To provide a portfolio for the developer to provide example of their work
+To provide a user with the ability to see the current weather and five day forcast for a specific city
 
 ## Credits
 
